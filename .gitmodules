@@ -1,5 +1,21 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ffverse/universe
 	shallow = true
 	branch = HEAD
+[submodule "ffscrapr"]
+	path = ffscrapr
+	url = https://github.com/dynastyprocess/ffscrapr
+	shallow = true
+	branch = dev
+	registered = true
+[submodule "fpscrapr"]
+	path = fpscrapr
+	url = https://github.com/dynastyprocess/fpscrapr
+	shallow = true
+	registered = true
+[submodule "ffsimulator"]
+	path = ffsimulator
+	url = https://github.com/dynastyprocess/ffsimulator
+	shallow = true
+	registered = true
