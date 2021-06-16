@@ -7,12 +7,13 @@
 	path = ffscrapr
 	url = https://github.com/dynastyprocess/ffscrapr
 	shallow = true
-	branch = dev
+	branch = main
 	registered = true
-[submodule "fpscrapr"]
-	path = fpscrapr
-	url = https://github.com/dynastyprocess/fpscrapr
+[submodule "ffpros"]
+	path = ffpros
+	url = https://github.com/dynastyprocess/ffpros
 	shallow = true
+	branch = main
 	registered = true
 [submodule "ffsimulator"]
 	path = ffsimulator
