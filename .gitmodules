@@ -11,12 +11,13 @@
 	registered = true
 [submodule "ffpros"]
 	path = ffpros
-	url = https://github.com/dynastyprocess/ffpros
+	url = https://github.com/ffverse/ffpros
 	shallow = true
 	branch = main
 	registered = true
 [submodule "ffsimulator"]
 	path = ffsimulator
-	url = https://github.com/dynastyprocess/ffsimulator
+	url = https://github.com/ffverse/ffsimulator
 	shallow = true
+	branch = main
 	registered = true
