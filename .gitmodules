@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "ffscrapr"]
 	path = ffscrapr
-	url = https://github.com/dynastyprocess/ffscrapr
+	url = https://github.com/ffverse/ffscrapr
 	shallow = true
 	branch = main
 	registered = true
