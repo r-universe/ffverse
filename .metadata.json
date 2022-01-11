@@ -9,5 +9,8 @@
   {
     "package": "ffsimulator",
     "oncran": true
+  },
+  {
+    "package": "ffexpectedpoints"
   }
 ]
