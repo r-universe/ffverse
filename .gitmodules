@@ -21,9 +21,9 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "ffexpectedpoints"]
-	path = ffexpectedpoints
-	url = https://github.com/ffverse/ffexpectedpoints
+[submodule "ffopportunity"]
+	path = ffopportunity
+	url = https://github.com/ffverse/ffopportunity
 	shallow = true
 	branch = main
 	registered = true
