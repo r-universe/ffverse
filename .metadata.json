@@ -7,8 +7,7 @@
     "package": "ffpros"
   },
   {
-    "package": "ffsimulator",
-    "oncran": true
+    "package": "ffsimulator"
   },
   {
     "package": "ffopportunity"
