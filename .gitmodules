@@ -1,29 +1,20 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ffverse/universe
-	shallow = true
 	branch = HEAD
 [submodule "ffscrapr"]
 	path = ffscrapr
 	url = https://github.com/ffverse/ffscrapr
-	shallow = true
 	branch = main
-	registered = true
 [submodule "ffpros"]
 	path = ffpros
 	url = https://github.com/ffverse/ffpros
-	shallow = true
 	branch = main
-	registered = true
 [submodule "ffsimulator"]
 	path = ffsimulator
 	url = https://github.com/ffverse/ffsimulator
-	shallow = true
 	branch = main
-	registered = true
 [submodule "ffopportunity"]
 	path = ffopportunity
 	url = https://github.com/ffverse/ffopportunity
-	shallow = true
 	branch = main
-	registered = true
