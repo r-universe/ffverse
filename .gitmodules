@@ -2,19 +2,19 @@
 	path = .registry
 	url = https://github.com/ffverse/universe
 	branch = HEAD
-[submodule "ffscrapr"]
-	path = ffscrapr
-	url = https://github.com/ffverse/ffscrapr
+[submodule "ffopportunity"]
+	path = ffopportunity
+	url = https://github.com/ffverse/ffopportunity
 	branch = main
 [submodule "ffpros"]
 	path = ffpros
 	url = https://github.com/ffverse/ffpros
 	branch = main
+[submodule "ffscrapr"]
+	path = ffscrapr
+	url = https://github.com/ffverse/ffscrapr
+	branch = main
 [submodule "ffsimulator"]
 	path = ffsimulator
 	url = https://github.com/ffverse/ffsimulator
-	branch = main
-[submodule "ffopportunity"]
-	path = ffopportunity
-	url = https://github.com/ffverse/ffopportunity
 	branch = main
