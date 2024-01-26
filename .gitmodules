@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ffverse/universe
+	url = https://github.com/ffverse/ffverse.r-universe.dev
 	branch = HEAD
 [submodule "ffopportunity"]
 	path = ffopportunity
